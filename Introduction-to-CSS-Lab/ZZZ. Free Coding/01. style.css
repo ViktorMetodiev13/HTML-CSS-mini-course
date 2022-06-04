@@ -1,0 +1,23 @@
+article p {
+    background: yellow;
+}
+
+#red-article {
+    background: red;
+}
+
+span.sky {
+    background: dodgerblue;
+}
+
+.code {
+    font-family: consolas;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
